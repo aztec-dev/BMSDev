@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\azari\\source\\repos\\BMSDev\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF1930F-8C31-47EC-AA2C-0A87F32C8226}|BMSDev\\BMSDev.csproj|c:\\users\\azari\\source\\repos\\bmsdev\\bmsdev\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF1930F-8C31-47EC-AA2C-0A87F32C8226}|BMSDev\\BMSDev.csproj|solutionrelative:bmsdev\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\azari\\source\\repos\\BMSDev\\BMSDev\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BMSDev\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\azari\\source\\repos\\BMSDev\\BMSDev\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "BMSDev\\Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T08:22:32.771Z",
+              "EditorCaption": ""
             }
           ]
         }
